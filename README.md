@@ -1,7 +1,5 @@
 # ECommerce--10-10-2017-
-This is eCommerce Website.Built Using Maven
+This is eCommerce Website.Built Using Spring MVC
 
-Backend:
-Hibernate
 
 Ajax,Jquery,Javacript Used
